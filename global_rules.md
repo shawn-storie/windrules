@@ -1,4 +1,4 @@
-# Projects for zPaper
+# [Project Name]
 
 Every time you choose to apply a rule(s), explicitly state the rule(s) in the output. You can abbreviate the rule description to a single word or phrase.
 
@@ -16,6 +16,8 @@ Every time you choose to apply a rule(s), explicitly state the rule(s) in the ou
 - Favor named exports for components and utilities
 - Use PascalCase for component files (e.g., VisaForm.tsx)
 - Use camelCase for utility files (e.g., formValidator.ts)
+- kebab-case for html ids (e.g., my-form)
+- Use snake_case for environment variables (e.g., API_KEY)
 
 
 ## Syntax and Formatting
